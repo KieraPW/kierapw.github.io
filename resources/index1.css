@@ -1,0 +1,74 @@
+* {
+	font-family:arial;
+}
+body{
+  	padding:20px;
+}
+img {
+	height: 60px;
+	width: 70px;
+}
+.p a {
+  	text-decoration: underline;
+  	color: blue;
+}
+.about, .history, .goals {
+	width:33%;
+	height:50%;
+	float:left;
+	padding:10px;
+	font-size:1.25em;
+}
+
+.about h1, .history h1, .goals h1 { 
+	font-size:1.5em;
+	text-align:center;
+}
+.intro {
+	font-size:1.25em;
+	margin: 0px auto 0px auto;
+	width:75%;
+	text-align: center;
+}
+.intro img {
+	height:500px;
+	width:500px;
+	margin: 40px auto auto auto;
+	overflow:auto;
+}
+header h1 {
+	font-size:3em;
+	text-align:center;
+}
+.profile {
+	width:32%;
+	height:50%;
+	float:left;
+}
+.profile h1 {
+	font-size: 1.5em;
+
+}
+.profile p{
+	margin: auto auto auto 50px;
+	font-size:1.25em;
+}
+.wrapper {
+  width: 1000px;
+  margin: 5px auto 5px auto;
+  background color: white;
+}
+.board img{
+	width:500px;
+	height:500px;
+	margin: 50px auto auto 25%;
+}
+.event {
+	font-size:1.25em;
+}
+.calendar {
+	margin: auto auto auto 15%;
+}
+.contact{
+	font-size:1.25em;
+}
